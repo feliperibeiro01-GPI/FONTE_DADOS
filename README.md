@@ -4,7 +4,9 @@ REPOSITORIO DE GPI 1 - PROFESSORA ADRIANA
 <img width="1676" height="902" alt="Captura de tela 2025-08-29 222224" src="https://github.com/user-attachments/assets/886848ab-381c-4941-afa1-5a183ea9202e" />
 
 Tabela de Dados 12/09/2025
+
 Para as perguntas criadas utilizamos as seguintes fórmulas:
+
 1- Considerando o ano 2022, qual foi o maior valor gerado em VTI-(milreais) para São Paulo?
 Resposta: Utilizei a fórmula MÁXIMOSES (sp_municipal!G:G;sp_municipal!D:D;2022;sp_municipal!B:B;"São Paulo"), para obter o maior valor gerado em (milreais) para São Paulo em 2022, que foi R$ 6.867.260,94;
 
