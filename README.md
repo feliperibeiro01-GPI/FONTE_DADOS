@@ -23,3 +23,8 @@ Resposta: Utilizei a fórmula CONT.VALORES(sp_municipal!A:J)-1, para encontrar a
 Resposta: Utilizei a fórmula MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;sp_municipal!B:B;"São Paulo"), para encontrar o menor valor gerado em VTI-(milreais) em São Paulo que foi de R$ 0,00
 <img width="1136" height="706" alt="image" src="https://github.com/user-attachments/assets/c5e558b3-9c3d-4104-a7a1-c4d9661c537a" />
 
+Atividade: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
+<img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/5793a3c3-885f-42ae-94c2-6049263b05d3" />
+
+Atividade 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
+<img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/3162618e-714d-43ac-873d-ea04062a6f4f" />
