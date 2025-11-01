@@ -27,4 +27,4 @@ Atividade: Introdução a extração de dados do Comex stat e confecção de dad
 <img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/5793a3c3-885f-42ae-94c2-6049263b05d3" />
 
 Atividade 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
-<img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/3162618e-714d-43ac-873d-ea04062a6f4f" />
+<img width="823" height="312" alt="image" src="https://github.com/user-attachments/assets/659e961d-3ed7-489c-9325-6b73d29f0571" />
