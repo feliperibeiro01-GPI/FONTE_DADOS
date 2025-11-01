@@ -21,4 +21,5 @@ Resposta: Utilizei a fórmula CONT.VALORES(sp_municipal!A:J)-1, para encontrar a
 
 5- Considerano o ano 2023, qual foi o menor valor gerado em Vti-(milreais) para São Paulo?
 Resposta: Utilizei a fórmula MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;sp_municipal!B:B;"São Paulo"), para encontrar o menor valor gerado em VTI-(milreais) em São Paulo que foi de R$ 0,00
+<img width="1136" height="706" alt="image" src="https://github.com/user-attachments/assets/c5e558b3-9c3d-4104-a7a1-c4d9661c537a" />
 
