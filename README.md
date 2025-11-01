@@ -31,3 +31,15 @@ Atividade: Introdução a extração de dados do Comex stat e confecção de dad
 Atividade 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
 
 <img width="823" height="312" alt="image" src="https://github.com/user-attachments/assets/659e961d-3ed7-489c-9325-6b73d29f0571" />
+
+Atividade Aula 31/10/2025 sobre tratamento de dados do gráfico Ice Cream
+
+Dados no Excel:
+
+<img width="1895" height="760" alt="image" src="https://github.com/user-attachments/assets/0d0eb6f4-81c2-46fb-b674-fd9645f697b5" />
+
+Dados no Colab do Google:
+
+<img width="1009" height="685" alt="image" src="https://github.com/user-attachments/assets/d0e06350-42a1-4079-a8f2-7f86855aee51" />
+<img width="762" height="771" alt="image" src="https://github.com/user-attachments/assets/e238490b-dc75-439e-a2e8-d96f75a70006" />
+<img width="774" height="432" alt="image" src="https://github.com/user-attachments/assets/c577c132-317e-439a-87dd-a19bb431e853" />
