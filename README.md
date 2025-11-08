@@ -40,16 +40,8 @@ Atividade 5 - Dados no Excel:
 
 Dados no Colab do Google:
 
-a
-
 <img width="1009" height="685" alt="image" src="https://github.com/user-attachments/assets/d0e06350-42a1-4079-a8f2-7f86855aee51" />
-
-a
-
 <img width="762" height="771" alt="image" src="https://github.com/user-attachments/assets/e238490b-dc75-439e-a2e8-d96f75a70006" />
-
-a
-
 <img width="774" height="432" alt="image" src="https://github.com/user-attachments/assets/c577c132-317e-439a-87dd-a19bb431e853" />
 
 Atividade 6 - Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa. 
