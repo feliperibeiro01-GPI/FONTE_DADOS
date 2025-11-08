@@ -1,9 +1,10 @@
 # FONTE_DADOS
 REPOSITORIO DE GPI 1 - PROFESSORA ADRIANA
+
 ## ATIVIDADE 1: APRESENTAÇÃO EM EQUIPE, UTILIZAMOS O SOFTWARE POWERPOINT
 <img width="1676" height="902" alt="Captura de tela 2025-08-29 222224" src="https://github.com/user-attachments/assets/886848ab-381c-4941-afa1-5a183ea9202e" />
 
-## Tabela de Dados 12/09/2025
+## Atividade 2: Tabela de Dados 12/09/2025
 
 Para as perguntas criadas utilizamos as seguintes fórmulas:
 
@@ -24,15 +25,15 @@ Resposta: Utilizei a fórmula MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;
 
 <img width="1136" height="706" alt="image" src="https://github.com/user-attachments/assets/c5e558b3-9c3d-4104-a7a1-c4d9661c537a" />
 
-## Atividade 1: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
+## Atividade 3: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
 
 <img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/5793a3c3-885f-42ae-94c2-6049263b05d3" />
 
-Atividade 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
+## Atividade 4: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
 
 <img width="823" height="312" alt="image" src="https://github.com/user-attachments/assets/659e961d-3ed7-489c-9325-6b73d29f0571" />
 
-Atividade 4 -  Aula 31/10/2025 sobre tratamento de dados do gráfico Ice Cream
+## Atividade 5:  Aula 31/10/2025 sobre tratamento de dados do gráfico Ice Cream
 
 Dados no Excel:
 
@@ -44,7 +45,7 @@ Dados no Colab do Google:
 <img width="762" height="771" alt="image" src="https://github.com/user-attachments/assets/e238490b-dc75-439e-a2e8-d96f75a70006" />
 <img width="774" height="432" alt="image" src="https://github.com/user-attachments/assets/c577c132-317e-439a-87dd-a19bb431e853" />
 
-Atividade 5 - Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa. 
+## Atividade 6: Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa. 
 
 <img width="821" height="749" alt="image" src="https://github.com/user-attachments/assets/7aaaf6af-2992-4349-8683-f75680e3445c" />
 
