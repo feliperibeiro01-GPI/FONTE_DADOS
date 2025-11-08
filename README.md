@@ -24,7 +24,7 @@ Resposta: Utilizei a fórmula MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;
 
 <img width="1136" height="706" alt="image" src="https://github.com/user-attachments/assets/c5e558b3-9c3d-4104-a7a1-c4d9661c537a" />
 
-Atividade: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
+## Atividade 1: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
 
 <img width="763" height="626" alt="image" src="https://github.com/user-attachments/assets/5793a3c3-885f-42ae-94c2-6049263b05d3" />
 
@@ -34,7 +34,7 @@ Atividade 2: Introdução a extração de dados do Comex stat e confecção de d
 
 Atividade 4 -  Aula 31/10/2025 sobre tratamento de dados do gráfico Ice Cream
 
-Atividade 5 - Dados no Excel:
+Dados no Excel:
 
 <img width="1895" height="760" alt="image" src="https://github.com/user-attachments/assets/0d0eb6f4-81c2-46fb-b674-fd9645f697b5" />
 
@@ -44,7 +44,7 @@ Dados no Colab do Google:
 <img width="762" height="771" alt="image" src="https://github.com/user-attachments/assets/e238490b-dc75-439e-a2e8-d96f75a70006" />
 <img width="774" height="432" alt="image" src="https://github.com/user-attachments/assets/c577c132-317e-439a-87dd-a19bb431e853" />
 
-Atividade 6 - Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa. 
+Atividade 5 - Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa. 
 
 <img width="821" height="749" alt="image" src="https://github.com/user-attachments/assets/7aaaf6af-2992-4349-8683-f75680e3445c" />
 
