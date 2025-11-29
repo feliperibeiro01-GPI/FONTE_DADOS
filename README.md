@@ -55,5 +55,16 @@ Regressão linear: Uma média retirada a partir de dados, utilizada para anális
 <img width="1044" height="494" alt="image" src="https://github.com/user-attachments/assets/fbf252fc-70b9-4cc7-b2ab-3f0c384afbc8" />
 <img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/5486c26e-0dcc-4f5e-ae46-55f812b9106c" />
 
+*Prova Informática _C_2025_2*
 
+c) Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
+
+ - gráfico mostrando a média de Índice de base fixa das atividades de serviços pesquisadas pela PMS (sem ajuste sazonal) por ano
+<img width="1453" height="815" alt="image" src="https://github.com/user-attachments/assets/8c303f88-2e19-4566-a7e7-f9e8812655ad" />
+
+- gráfico mostrando a média de Índice de base fixa das atividades de serviços pesquisadas pela PMS (sem ajuste sazonal) por Mês
+<img width="1447" height="816" alt="image" src="https://github.com/user-attachments/assets/421c5c76-ac9b-480b-af79-097ee576c506" />
+
+- gráfico mostrando a mediana de Índice de base fixa das atividades de serviços pesquisadas pela PMS (com ajuste sazonal) por Mês
+<img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/9f04149e-c9de-45c4-b9a5-87fe13ea1d92" />
 
